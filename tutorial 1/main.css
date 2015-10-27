@@ -1,0 +1,11 @@
+p {
+ 	color: red;
+}
+div {
+	height: 100%; 
+	width: 100%;
+	/*background-color: #89ec97; */
+	background-image:url(test.jpg);
+	background-position: center;
+	background-repeat: none;
+}
